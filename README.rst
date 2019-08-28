@@ -33,9 +33,10 @@ big push.
 Expectations and Evaluation Criteria
 ------------------------------------
 Your project will be evaluated on the following criteria:
-* Correctness: Measures if the assignment produces the correct output.
-* Testing: Evaluates how thoroughly the candidate tested their submission. An ideal submission will have a thorough unit test suite and include/document tests done with larger corpus files. 
-* Readability: Using meaningful variable names, easy to follow logic and control flow, adequate commenting, and amount of code reuse.
+
+* Correctness: Measures if the assignment produces the correct output
+* Testing: Evaluates how thoroughly the candidate tested their submission. An ideal submission will have a thorough unit test suite and include/document tests done with larger corpus files 
+* Readability: Using meaningful variable names, easy to follow logic and control flow, adequate commenting, and amount of code reuse
 
 Requirement for correctness
 ---------------------------
