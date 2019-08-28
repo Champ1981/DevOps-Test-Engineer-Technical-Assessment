@@ -30,8 +30,15 @@ request with notes back to the Stateless repo for final submission.
 Commit often. We want to see your progress with notes rather than one
 big push.
 
-Criteria for Success
---------------------
+Expectations and Evaluation Criteria
+------------------------------------
+Your project will be evaluated on the following criteria:
+* Correctness: Measures if the assignment produces the correct output.
+* Testing: Evaluates how thoroughly the candidate tested their submission. An ideal submission will have a thorough unit test suite and include/document tests done with larger corpus files. 
+* Readability: Using meaningful variable names, easy to follow logic and control flow, adequate commenting, and amount of code reuse.
+
+Requirement for correctness
+---------------------------
 Ensure your assignment meets the following criteria:
 
 * Add basic authentication to your API (you may hard-code credentials)
